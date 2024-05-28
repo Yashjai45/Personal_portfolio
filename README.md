@@ -4,4 +4,4 @@ Contains animations when scrolling.
 Smooth scrolling in each section.
 Developed first with the Mobile First methodology, then for desktop.
 Compatible with all mobile devices and with a beautiful and pleasant user interface.
-https://github.com/Yashjai45/Personal_portfolio/blob/main/First_Page_of_Website.png?raw=true
+![Uploading image.png…]()
